@@ -17,7 +17,7 @@
     "mysql": "2.15.0",
     "reflect-metadata": "0.1.12",
     "rxjs": "6.2.2",
-    "typeorm": "0.1.16",
+    "typeorm": "0.2.15",
     "typescript": "2.9.2"
   },
   "devDependencies": {
