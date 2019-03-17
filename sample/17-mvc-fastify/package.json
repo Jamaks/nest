@@ -15,7 +15,7 @@
     "@nestjs/platform-fastify": "6.0.0",
     "handlebars": "4.1.1",
     "point-of-view": "1.0.0",
-    "reflect-metadata": "0.1.12",
+    "reflect-metadata": "0.1.13",
     "rxjs": "6.2.1",
     "typescript": "2.7.2"
   },
